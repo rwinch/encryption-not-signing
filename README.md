@@ -1,4 +1,4 @@
-#Exploiting encrypted cookies for fun and profit
+# Exploiting encrypted cookies for fun and profit
 
 This is a sample project and text for a [blog post](http://spring.io/blog/2014/01/20/exploiting-encrypted-cookies-for-fun-and-profit) found on spring.io.
 
